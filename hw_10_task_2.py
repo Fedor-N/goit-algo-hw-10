@@ -49,4 +49,5 @@ ax.text(1.5, 0.5,
 ax.text(1.5, 0.4, f'Точне значення інтеграла: {integral_exact:.2f}',
         fontsize=12, horizontalalignment='center')
 plt.grid()
+
 plt.show()
